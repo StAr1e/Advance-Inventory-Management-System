@@ -56,6 +56,6 @@ For local development, start a PHP server:
 ## 📧 Contact
 For support or inquiries, contact **[Sayad Akbar](Sayadshahab82@gmail.com)** or create an issue in the repository.
 
----
-Made with ❤️ by **Your Name**
+
+
 
