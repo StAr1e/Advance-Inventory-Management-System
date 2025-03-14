@@ -1,0 +1,5 @@
+ID,Customer,Item,Quantity,Price,Amount,Paid,Loan,Date
+1,shahab,"cooking oil 3liter",1,6000,6000,6000,0,2025-02-28
+2,shahab,"surf 4kg ",2,45,90,0,90,2025-02-28
+3,sdfsdf,20kg,2,34,68,0,68,2025-02-28
+,TOTALS,,,,6158,6000,158,

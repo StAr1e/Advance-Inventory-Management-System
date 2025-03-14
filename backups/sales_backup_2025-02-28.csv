@@ -1,0 +1,6 @@
+ID,Customer,Item,Quantity,Price,Amount,Paid,Loan,Date
+8,shahab,"surf 4kg ",2,34,68,68,0,2025-02-27
+9,shahab,20kg,3,44,132,20,112,2025-02-27
+10,shahab,30kg,2,34,68,5,63,2025-02-27
+11,shahab,soap,4,33,132,132,0,2025-02-27
+,TOTALS,,,,400,225,175,
