@@ -1,4 +1,0 @@
-ID,Customer,Item,Quantity,Price,Amount,Paid,Loan,Date
-1,"shay ",20kg,20,2000,40000,40000,0,2025-03-07
-2,abc,30kg,20,3000,60000,0,60000,2025-03-07
-,TOTALS,,,,100000,40000,60000,

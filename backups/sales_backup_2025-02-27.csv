@@ -1,5 +1,0 @@
-ID,Customer,Item,Quantity,Price,Amount,Paid,Loan,Date
-3,me,"surf 4kg",3,800,2400,2400,0,2025-02-26
-4,to,20kg,3,2000,6000,6000,0,2025-02-25
-5,dsadasd,soap,100,2000,200000,200000,0,2025-02-26
-,TOTALS,,,,208400,208400,0,
